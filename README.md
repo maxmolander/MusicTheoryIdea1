@@ -12,4 +12,4 @@ build 8-note chords based off of:
 "perform" and sequence multiple chords in different ways such as 
   holding a chord, 
   playing it on and off, 
-  arpeggiating through the individual notes
+  or arpeggiating up through the notes
